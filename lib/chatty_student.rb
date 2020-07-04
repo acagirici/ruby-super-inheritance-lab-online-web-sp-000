@@ -10,4 +10,5 @@ class ChattyStudent < Student
     super
     @in_class = true.10.times
     end
+  end
 end
