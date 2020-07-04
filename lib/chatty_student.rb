@@ -2,7 +2,6 @@ class ChattyStudent < Student
   def hello
     super
     @student = true
-    end
   end
   
   def raise_hand
